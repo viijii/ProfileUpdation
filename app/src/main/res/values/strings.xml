@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">profile update</string>
+    <string name="open">CmUI</string>
+    <string name="close">CmUI</string>
+    <string name="female" />
+    <string name="male" />
+</resources>
